@@ -1,0 +1,1 @@
+Sitemap: https://manogenome.github.io/sitemap.xml
